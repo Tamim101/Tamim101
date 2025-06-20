@@ -31,7 +31,7 @@
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" width="40" height="40"/>
   </a>
   <a href="#" target="_blank">
-    <img src="https://img.shields.io/twitter/follow/soheltanvir0699?logo=twitter&style=for-the-badge" alt="Twitter"/>
+    <img src="https://img.shields.io/twitter/follow/Tamim101?logo=twitter&style=for-the-badge" alt="Twitter"/>
   </a>
   <a href="https://www.facebook.com/tanvirislam.tamim.14/" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook" width="40" height="40"/>

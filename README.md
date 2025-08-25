@@ -1,4 +1,5 @@
 <h1 align="center">Hi 👋, I'm Tamim Khan</h1>
+<h3 align="center">A Passionate Software Developer | Embedded Systems Enthusiast</h3>
 <h3 align="center">Innovating the human experience with <a href="https://olle.tech/">OLL.E</a></h3>
  
 <p align="center">
@@ -15,6 +16,11 @@
 - 🚀 [OLL.E – Revolutionizing waiting](https://olle.tech/)
  
 ### 🌱 Learning:
+- 🌱 I’m currently learning **C, Data Structures, Django & Embedded Systems**  
+- 💻 Passionate about **IoT, Arduino, ESP32, and Automation**  
+- 🔭 Working on **Home Automation & MAX7219 Matrix Display Projects**  
+- 📫 How to reach me: **tamimkhan7133@gmail.com**  
+- ⚡ Fun fact: **I love coding + electronics + problem solving**
 - Embedded Programming
 - Business Strategy
 - Financial Systems
@@ -81,6 +87,13 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tamim101&layout=compact&theme=github_dark" alt="Top Languages" />
 </p>
  
+---
+## 🌱 Contribution Graph  
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Tamim101&theme=react-dark" alt="Tamim's Contribution Graph" />
+</p>
+
 ---
  
 > "Let’s build the future, one idea at a time."

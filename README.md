@@ -1,84 +1,106 @@
-<h1 align="center">Tamim Khan</h1>
-<h3 align="center">Embedded Systems & Drone Engineer</h3>
+<h1 align="center">Hi there, I'm Tamim 👋</h1>
+<h3 align="center">Embedded Systems & Drone Engineer 🚁⚙️</h3>
 
 <p align="center">
-  Building reliable firmware for flight controllers, IoT systems, and real-time embedded applications.
-  <br/>
-  <sub>📍 Khulna, Bangladesh · 📫 tamimkhan7133@gmail.com</sub>
-</p>
-
-<p align="center">
-  <a href="mailto:tamimkhan7133@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact-0A66C2?style=flat-square&logo=gmail&logoColor=white"/>
-  </a>
-  <a href="https://github.com/Tamim101">
-    <img src="https://img.shields.io/badge/GitHub-Profile-181717?style=flat-square&logo=github&logoColor=white"/>
-  </a>
-  <img src="https://img.shields.io/badge/Open%20to-Internships-2EA44F?style=flat-square"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3500&pause=800&color=00BFFF&center=true&vCenter=true&width=600&lines=Embedded+Systems+Engineer;Drone+%26+Flight+Controller+Developer;IoT+%7C+Robotics+%7C+Automation;Open+to+Internship+Opportunities" alt="Typing SVG" />
 </p>
 
 ---
 
-### About
+### 🧠 About Me
 
-Software engineering student specializing in **embedded systems** and **unmanned aerial vehicles**. I work across the full stack of embedded development — from bare-metal C on ARM Cortex-M to high-level Python control layers — with a focus on flight control, sensor fusion, and IoT automation.
-
-- 🎯 **Focus areas:** Flight controllers, RTOS, sensor fusion, IoT, PCB design
-- 🛠 **Currently building:** Custom flight controller firmware and a smart automation platform
-- 📚 **Studying:** Software Engineering with a concentration in embedded OS
-
----
-
-### Core Competencies
-
-| Domain | Technologies |
-|---|---|
-| **Languages** | C, C++, Python, Embedded C |
-| **Microcontrollers** | STM32, ESP32, ATmega (Arduino), Raspberry Pi |
-| **Embedded** | FreeRTOS, bare-metal, HAL/LL, interrupts, DMA |
-| **Drone Stack** | Betaflight, ArduPilot, PX4, MAVLink, SBUS, DShot |
-| **Protocols** | I²C, SPI, UART, CAN, MQTT, Modbus |
-| **Tools** | KiCad, PlatformIO, STM32CubeIDE, Git, Linux |
-| **Backend** | Django, REST APIs, SQLite/PostgreSQL |
+- 🎓 Software Engineering student specializing in **Embedded Systems**
+- 🚁 Building **autonomous drones**, flight controllers, and IoT platforms
+- 🔌 Working with **STM32, ESP32, ARM Cortex-M, FreeRTOS, and bare-metal C**
+- 🛠 Currently developing **OLL.E** — a smart automation platform
+- 📍 Based in Khulna, Bangladesh
+- 📫 Reach me: **tamimkhan7133@gmail.com**
+- 💼 **Open to internships** in embedded systems, robotics, and UAV development
 
 ---
 
-### Featured Projects
+### 🚀 Currently Working On
 
-#### 🚁 Custom Flight Controller
-Designing a flight controller from scratch — STM32-based, with IMU sensor fusion (Madgwick/Mahony filters), PID stabilization, and SBUS receiver support.
-`STM32` `C` `FreeRTOS` `MPU6050`
-
-#### 🏠 OLL.E — Smart Automation Platform
-ESP32-based home automation system with MQTT messaging and a Django web dashboard for real-time device control and monitoring.
-`ESP32` `MQTT` `Django` `Python`
-
-#### 💡 MAX7219 Matrix Display Suite
-Driver library and animation engine for cascaded MAX7219 LED matrices — supports scrolling text, real-time data feeds, and custom graphics.
-`Arduino` `C++` `SPI`
-
-> *Pinned repositories below — full source, documentation, and demos.*
+- 🛸 **Custom Flight Controller** — STM32-based with IMU sensor fusion, PID stabilization, and SBUS support
+- 🏠 **OLL.E Smart Automation** — ESP32 + MQTT + Django dashboard for real-time device control
+- 💡 **MAX7219 Matrix Display Suite** — driver library with animations and real-time data feeds
+- 📡 Exploring **DShot, MAVLink, PX4, and ArduPilot internals**
 
 ---
 
-### GitHub Activity
+### 🛠 Tech Stack
+
+**Languages**
+
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Embedded C](https://img.shields.io/badge/Embedded%20C-A8B400?style=for-the-badge&logo=c&logoColor=white)
+
+**Microcontrollers & Embedded**
+
+![STM32](https://img.shields.io/badge/STM32-03234B?style=for-the-badge&logo=stmicroelectronics&logoColor=white)
+![ESP32](https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge&logo=espressif&logoColor=white)
+![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
+![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-A22846?style=for-the-badge&logo=raspberrypi&logoColor=white)
+![FreeRTOS](https://img.shields.io/badge/FreeRTOS-3DA639?style=for-the-badge&logo=freertos&logoColor=white)
+
+**Drone Stack**
+
+![Betaflight](https://img.shields.io/badge/Betaflight-FF6B00?style=for-the-badge)
+![ArduPilot](https://img.shields.io/badge/ArduPilot-0E8CC4?style=for-the-badge)
+![PX4](https://img.shields.io/badge/PX4-1E90FF?style=for-the-badge)
+![MAVLink](https://img.shields.io/badge/MAVLink-555?style=for-the-badge)
+
+**Protocols**
+
+![I2C](https://img.shields.io/badge/I²C-4B5563?style=for-the-badge)
+![SPI](https://img.shields.io/badge/SPI-4B5563?style=for-the-badge)
+![UART](https://img.shields.io/badge/UART-4B5563?style=for-the-badge)
+![CAN](https://img.shields.io/badge/CAN-4B5563?style=for-the-badge)
+![MQTT](https://img.shields.io/badge/MQTT-660066?style=for-the-badge&logo=mqtt&logoColor=white)
+
+**Tools & Frameworks**
+
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![PlatformIO](https://img.shields.io/badge/PlatformIO-F5822A?style=for-the-badge&logo=platformio&logoColor=white)
+![KiCad](https://img.shields.io/badge/KiCad-314CB0?style=for-the-badge&logo=kicad&logoColor=white)
+![STM32Cube](https://img.shields.io/badge/STM32Cube-03234B?style=for-the-badge&logo=stmicroelectronics&logoColor=white)
+
+---
+
+### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Tamim101&show_icons=true&theme=default&hide_border=true&card_width=400" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tamim101&layout=compact&theme=default&hide_border=true&card_width=320" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Tamim101&show_icons=true&theme=tokyonight&hide_border=true" height="180"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Tamim101&theme=tokyonight&hide_border=true" height="180"/>
+</p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tamim101&layout=compact&theme=tokyonight&hide_border=true" height="160"/>
 </p>
 
 ---
 
-### Currently Learning
+### 🎯 Goals for 2026
 
-ARM Cortex-M bare-metal programming · Advanced PID control & state estimation · PX4 internals · PCB design for high-frequency signals
+- [ ] Build a fully autonomous drone with custom firmware
+- [ ] Master ARM Cortex-M bare-metal & RTOS development
+- [ ] Contribute to open-source flight controller projects (Betaflight / ArduPilot)
+- [ ] Design and fabricate my own flight controller PCB
+- [ ] Land an internship in embedded systems or UAV development
 
 ---
 
+### 🌐 Connect with Me
+
 <p align="center">
-  <sub>Open to internship opportunities in embedded systems, robotics, and UAV development.</sub>
+  <a href="mailto:tamimkhan7133@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://github.com/Tamim101"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
 </p>
+
+<p align="center"><i>⚡ Fun fact: I love coding + electronics + breaking things to learn how they work</i></p>
  
 ### 📫 Reach Me At:
 - 📧 tamimkhan7133@gmail.com

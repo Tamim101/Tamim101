@@ -1,29 +1,84 @@
-<h1 align="center">Hi 👋, I'm Tamim Khan</h1>
-<h3 align="center">A Passionate Software Developer | Embedded Systems Enthusiast</h3>
-<h3 align="center">Innovating the human experience with <a href="https://olle.tech/">OLL.E</a></h3>
- 
+<h1 align="center">Tamim Khan</h1>
+<h3 align="center">Embedded Systems & Drone Engineer</h3>
+
 <p align="center">
-  <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" alt="coding" width="400" />
+  Building reliable firmware for flight controllers, IoT systems, and real-time embedded applications.
+  <br/>
+  <sub>📍 Khulna, Bangladesh · 📫 tamimkhan7133@gmail.com</sub>
 </p>
- 
+
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Tamim101&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
+  <a href="mailto:tamimkhan7133@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-0A66C2?style=flat-square&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://github.com/Tamim101">
+    <img src="https://img.shields.io/badge/GitHub-Profile-181717?style=flat-square&logo=github&logoColor=white"/>
+  </a>
+  <img src="https://img.shields.io/badge/Open%20to-Internships-2EA44F?style=flat-square"/>
 </p>
- 
+
 ---
- 
-### 🔭 Currently Working On:
-- 🚀 [OLL.E – Revolutionizing waiting](https://olle.tech/)
- 
-### 🌱 Learning:
-- 🌱 I’m currently learning **C, Data Structures, Django & Embedded Systems**  
-- 💻 Passionate about **IoT, Arduino, ESP32, and Automation**  
-- 🔭 Working on **Home Automation & MAX7219 Matrix Display Projects**  
-- 📫 How to reach me: **tamimkhan7133@gmail.com**  
-- ⚡ Fun fact: **I love coding + electronics + problem solving**
-- Embedded Programming
-- Business Strategy
-- Financial Systems
+
+### About
+
+Software engineering student specializing in **embedded systems** and **unmanned aerial vehicles**. I work across the full stack of embedded development — from bare-metal C on ARM Cortex-M to high-level Python control layers — with a focus on flight control, sensor fusion, and IoT automation.
+
+- 🎯 **Focus areas:** Flight controllers, RTOS, sensor fusion, IoT, PCB design
+- 🛠 **Currently building:** Custom flight controller firmware and a smart automation platform
+- 📚 **Studying:** Software Engineering with a concentration in embedded OS
+
+---
+
+### Core Competencies
+
+| Domain | Technologies |
+|---|---|
+| **Languages** | C, C++, Python, Embedded C |
+| **Microcontrollers** | STM32, ESP32, ATmega (Arduino), Raspberry Pi |
+| **Embedded** | FreeRTOS, bare-metal, HAL/LL, interrupts, DMA |
+| **Drone Stack** | Betaflight, ArduPilot, PX4, MAVLink, SBUS, DShot |
+| **Protocols** | I²C, SPI, UART, CAN, MQTT, Modbus |
+| **Tools** | KiCad, PlatformIO, STM32CubeIDE, Git, Linux |
+| **Backend** | Django, REST APIs, SQLite/PostgreSQL |
+
+---
+
+### Featured Projects
+
+#### 🚁 Custom Flight Controller
+Designing a flight controller from scratch — STM32-based, with IMU sensor fusion (Madgwick/Mahony filters), PID stabilization, and SBUS receiver support.
+`STM32` `C` `FreeRTOS` `MPU6050`
+
+#### 🏠 OLL.E — Smart Automation Platform
+ESP32-based home automation system with MQTT messaging and a Django web dashboard for real-time device control and monitoring.
+`ESP32` `MQTT` `Django` `Python`
+
+#### 💡 MAX7219 Matrix Display Suite
+Driver library and animation engine for cascaded MAX7219 LED matrices — supports scrolling text, real-time data feeds, and custom graphics.
+`Arduino` `C++` `SPI`
+
+> *Pinned repositories below — full source, documentation, and demos.*
+
+---
+
+### GitHub Activity
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Tamim101&show_icons=true&theme=default&hide_border=true&card_width=400" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tamim101&layout=compact&theme=default&hide_border=true&card_width=320" height="160"/>
+</p>
+
+---
+
+### Currently Learning
+
+ARM Cortex-M bare-metal programming · Advanced PID control & state estimation · PX4 internals · PCB design for high-frequency signals
+
+---
+
+<p align="center">
+  <sub>Open to internship opportunities in embedded systems, robotics, and UAV development.</sub>
+</p>
  
 ### 📫 Reach Me At:
 - 📧 tamimkhan7133@gmail.com
